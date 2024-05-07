@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 62,
+    "userName": "KormushkinNV",
+    "fullName": "Кормушкин Николай Владимирович",
+    "avatarUrl": "https://www.gravatar.com/avatar/0a004af3e4964595c98209145b7aa25f?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 395,
+        "name": "RnStreamIntegration",
+        "issues": [
+          {
+            "title": "Реализация алгоритма выгрузки согласно блок-схемы",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/rnstreamintegration/-/issues/1"
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "name": "MMD",
+        "issues": [
+          {
+            "title": "Слить обновления исходников РН-СТРИМ от 08.06.2021",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/mmd/-/issues/174"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "userName": "MikhaylovTS",
+    "fullName": "Михайлов Тимур Шералевич",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/55/avatar.png",
+    "projects": [
+      {
+        "id": 382,
+        "name": "САПСАН",
+        "issues": [
+          {
+            "title": "Реализовать консольное приложение на net 4.6.1 для загрузки комплектов в САПСАН",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPSAN/-/issues/14"
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "RFA_graph",
+        "issues": [
+          {
+            "title": "Сделать чтобы логи писались в ту же папку в которую устанавливается основная программа",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/rfa_graph/-/issues/55"
+          }
+        ]
+      },
+      {
+        "id": 241,
+        "name": "cable_journal",
+        "issues": [
+          {
+            "title": "Не попадает в атрибут КАБЕЛЬНАЯ ГРУППА правильное значение из экселя из столбца \"Кабельная группа\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/85"
+          },
+          {
+            "title": "Исправить ошибку возникающую на чертеже при выборе всех блоков на чертеже",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/65"
+          },
+          {
+            "title": "Возникает баг с копированием первой строки в другие в КЖ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/58"
+          },
+          {
+            "title": "Исправить ошибку в математике для журнала пожарной безопасности",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/50"
+          },
+          {
+            "title": "Реализация отдельных форм для импорта excel файлов для Систем связи и Пожарной безопасности. В том числе формирование самих КЖ и импортирование данных из соответствующих им типов эксель файлов.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/40"
+          },
+          {
+            "title": "Добавить шаблоны задач",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/38"
+          },
+          {
+            "title": "Реализовать юниттесты для проверки корректного суммирования длин кабельного журнала",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/32"
+          },
+          {
+            "title": "Добавить проект для юниттестов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/31"
+          },
+          {
+            "title": "Не реализована форма для СС",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/30"
+          },
+          {
+            "title": "Переделать выгрузку из эксель в csv",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/cable_journal/-/issues/24"
+          }
+        ]
+      },
+      {
+        "id": 239,
+        "name": "TNIPI_RenameSet",
+        "issues": [
+          {
+            "title": "Не работает переименование слов внутри таблиц которые хранятся внутри надписей",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/TNIPI_RenameSet/-/issues/15"
+          },
+          {
+            "title": "Добавить возможность отображения процесса переименовывания (в %), а также аварийной остановке процесса.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/TNIPI_RenameSet/-/issues/3"
+          }
+        ]
+      },
+      {
+        "id": 235,
+        "name": "sbt_tkrs",
+        "issues": [
+          {
+            "title": "Интегрировать обновление АПИ в интерфейс формы расчета сбивного клапана",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/sbt_tkrs/-/issues/110"
+          }
+        ]
+      },
+      {
+        "id": 230,
+        "name": "NipiPlan",
+        "issues": [
+          {
+            "title": "Подгрузка из СВД в нашу базу сотрудников которые отсутствуют в нашей БД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/nipiplan/-/issues/45"
+          },
+          {
+            "title": "Реализовать подгрузку проектов из СВД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/nipiplan/-/issues/40"
+          },
+          {
+            "title": "Не вмещается в экран окно с диаграмой Ганта",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/nipiplan/-/issues/30"
+          },
+          {
+            "title": "Ускорить отрисовку проектов на форме",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/nipiplan/-/issues/17"
+          }
+        ]
+      },
+      {
+        "id": 197,
+        "name": "HorizontalFlare",
+        "issues": [
+          {
+            "title": "Обновить систему лицензирования",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/84"
+          },
+          {
+            "title": "Интеграция обновленного математического бакэнда",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/73"
+          },
+          {
+            "title": "Добавить отрезки представляющие собой оси пересекающие тепловые зоны",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/71"
+          },
+          {
+            "title": "Выпустить релиз версии 1.4",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/68"
+          },
+          {
+            "title": "Добавить 4 технологических параметра на форму",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/53"
+          },
+          {
+            "title": "Добавить в интерфейс пользователя задание массового расхода",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/49"
+          },
+          {
+            "title": "Исправить ошибку \"Приложение HorizontalFlareCalc требует для работы права администратора\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/44"
+          },
+          {
+            "title": "Исправить ошибку инсталятора для внешних организаций.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/43"
+          },
+          {
+            "title": "Заменить контрол отображающий формы для ввода данных в задание на табы",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/37"
+          },
+          {
+            "title": "Вшить в ПМ механизм лицензирования",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/34"
+          },
+          {
+            "title": "Актуализировать РП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/33"
+          },
+          {
+            "title": "Выпустить релиз версии 1.2",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/32"
+          },
+          {
+            "title": "Заменить список расстояний до факела одним расстоянием",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/31"
+          },
+          {
+            "title": "Доработать вывод отчета для параметра рекомендуемые параметры амбара",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/30"
+          },
+          {
+            "title": "Исправить интерфейс пользователя",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/29"
+          },
+          {
+            "title": "Выпустить релиз",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/26"
+          },
+          {
+            "title": "Выпустить релиз версии 1.0",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/5"
+          }
+        ]
+      },
+      {
+        "id": 193,
+        "name": "ControlValve",
+        "issues": [
+          {
+            "title": "Поправить выходной отчет",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/110"
+          },
+          {
+            "title": "Заменить описание выпадающего списка \"Масовый расход среды\" на объемный если выбираем еденицы измерений м3/ч",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/106"
+          },
+          {
+            "title": "Добавить у всех полей ограничения до трех символов после запятой",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/103"
+          },
+          {
+            "title": "Встроить механизм лицензирования в ПМ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/102"
+          },
+          {
+            "title": "Не вводится 0 в числе после запятой",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/101"
+          },
+          {
+            "title": "Найти причину по которой выводимые данные не совпадают с выводимыми данными из юнитестов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/94"
+          },
+          {
+            "title": "Дать возможность пользователю задать диапазоны для массового расхода среды и давления среды на выходе клапана",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/86"
+          },
+          {
+            "title": "Выпустить релиз v1.3",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/55"
+          },
+          {
+            "title": "Добавить вывод тип регулирующего клапана в результаты вычислений.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/48"
+          },
+          {
+            "title": "Ввести дополнительный параметр - расход",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/controlvalve/-/issues/46"
+          }
+        ]
+      },
+      {
+        "id": 171,
+        "name": "GasTreatment",
+        "issues": [
+          {
+            "title": "Объеденить обновленный математический бакэнд и фронтэнд.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/217"
+          },
+          {
+            "title": "Доработать расчет профилей («Профиль давлений СОГ на выходе из УКПГ (согласно модели Aspen Hysys)» и «Профиль давлений на выходе из ЦДКС»)",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/206"
+          },
+          {
+            "title": "Правка бага DotNetCore.NPOI версии 1.2.2 не найден",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/195"
+          },
+          {
+            "title": "Отработка замечаний первой итерации",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/187"
+          },
+          {
+            "title": "Проверить совпадение тестовых данных и данных полученных в результате расчета ПМ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/182"
+          },
+          {
+            "title": "Доработать форму вывода свойств потоков для различных конфигураций.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/172"
+          },
+          {
+            "title": "Добавить валидацию для ввода длин трубопроводов на 4 шаге",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/170"
+          },
+          {
+            "title": "Доработать вывод площадных объектов и трубопроводов для конфигурации C",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/164"
+          },
+          {
+            "title": "Разработать механизм визуального отделения строк друг от друга при большом их количестве",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/161"
+          },
+          {
+            "title": "Вывести данные для конфигурации C  для дросселя и ТДА",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/159"
+          },
+          {
+            "title": "Вывести данные для конфигурации B для ТДА",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/158"
+          },
+          {
+            "title": "Сделать вывод результатов для дроселя и ТДА одновременно",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/155"
+          },
+          {
+            "title": "Сделать вывод результатов расчетов для конфигурации А для СПБТ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/154"
+          },
+          {
+            "title": "Сделать вывод результатов расчетов для конфигурации А для нестабильного конденсата",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/153"
+          },
+          {
+            "title": "Добиться стабильного получения результата от калькулятора CompressorUnitLinesCalculator",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/141"
+          },
+          {
+            "title": "Сделать рефакторинг для класса OutputEconomicBlockConfigA",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/133"
+          },
+          {
+            "title": "Прикрутить контролы к модели PipelinesAdditDataModel",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/131"
+          },
+          {
+            "title": "Прикрутить модель SeparateGasTreatmentModel к юзерконтролам отвечающим за ввод данных  для установки комплексной подготовки газа с подготовкой «тощего» газа методом абсорбционной осушки",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/130"
+          },
+          {
+            "title": "Реализовать форму ввода данных из Aspen Hysys состава СОГ для УКПГ c НТС и УКПГ с установкой осушки",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/105"
+          },
+          {
+            "title": "Доработка внешнего вида интерфейса",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gastreatment/-/issues/89"
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "name": "MethanProcess",
+        "issues": [
+          {
+            "title": "Добавить в инсталяторы проверку существования установленного Core SDK",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/methanprocess/-/issues/85"
+          },
+          {
+            "title": "Встроить механизм лицензирования в ПМ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/methanprocess/-/issues/83"
+          },
+          {
+            "title": "Объединение обновленного интерфейса пользователя и обновленного математического бакэнда",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/methanprocess/-/issues/79"
+          },
+          {
+            "title": "Исправить ошибку округления",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/methanprocess/-/issues/47"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Transition",
+        "issues": [
+          {
+            "title": "Встроить систему лицензирования",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Transition/-/issues/4"
+          },
+          {
+            "title": "Добавить систему авторизации пользователя по логину и паролю",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Transition/-/issues/3"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Stamp",
+        "issues": [
+          {
+            "title": "Создать инсталятор для автокада 2017",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/445"
+          },
+          {
+            "title": "Повысить версию сборки 4.3.0",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/443"
+          },
+          {
+            "title": "Сделать инсталятор",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/441"
+          },
+          {
+            "title": "Рекализация юниттестов для шифра на титульнике СОДа для Роснефти и Ванкора",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/427"
+          },
+          {
+            "title": "Создать инсталятор",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/391"
+          },
+          {
+            "title": "Повысить сборку",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/381"
+          },
+          {
+            "title": "Поправить пути в инсталяторах",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/370"
+          },
+          {
+            "title": "Печать текущей страницы в PDF не формирует корректного имени файла для нового листа",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/339"
+          },
+          {
+            "title": "Повысить версию",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/328"
+          },
+          {
+            "title": "Появляение спецсимволов AutoCAD в Штампе",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/323"
+          },
+          {
+            "title": "Повысить версию до 4.2",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/311"
+          },
+          {
+            "title": "Добавить в функцию \"Пакетное редактирование\" формирование \"fNN\" (для ПД)",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/305"
+          },
+          {
+            "title": "Повысить версию",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/302"
+          },
+          {
+            "title": "Повысить версию",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/300"
+          },
+          {
+            "title": "Реализация поддержки редактирования малого штампа",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/298"
+          },
+          {
+            "title": "Проверить как именно работал штамп с малым штампом ранее",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/297"
+          },
+          {
+            "title": "Повысить версию",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/292"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Исправить верстку на странице отп",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1422"
+          },
+          {
+            "title": "Исправить верстку в таблице заголовков в проекте",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1420"
+          },
+          {
+            "title": "Перестают работать кнопки окне с ЗП после загрузки некорректного фйла с ЗП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1294"
+          },
+          {
+            "title": "Улучшить алгоритм загрузки ЗП в ИСУ ТТПК",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1293"
+          },
+          {
+            "title": "Уменьшить число ложных срабатываний возникающих при проверке загруженного ЗП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1291"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SpecBook",
+        "issues": [
+          {
+            "title": "Выпустить релиз версии 3.2.2",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SpecBook/-/issues/285"
+          },
+          {
+            "title": "Выпустить релиз 3.2",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SpecBook/-/issues/266"
+          },
+          {
+            "title": "Запретить обновление сводной спецификации",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SpecBook/-/issues/260"
+          },
+          {
+            "title": "Выпустить релиз версии 3.1.1",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SpecBook/-/issues/226"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "userName": "SapunovAO",
+    "fullName": "Сапунов Анатолий Олегович",
+    "avatarUrl": "https://www.gravatar.com/avatar/2bb6f594ff71374111c2340ffe64a9f3?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 378,
+        "name": "ProjectAlienation",
+        "issues": [
+          {
+            "title": "Реализовать диалоговое окно выбора файла для импорта",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/3dModelling/projectalienation/-/issues/29"
+          },
+          {
+            "title": "Настроить экспорт в .XLSM",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/3dModelling/projectalienation/-/issues/9"
+          },
+          {
+            "title": "Ускорить процесс экспорта в Excel Файл",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/3dModelling/projectalienation/-/issues/8"
+          },
+          {
+            "title": "Реализовать генерацию Excel файла",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/3dModelling/projectalienation/-/issues/7"
+          },
+          {
+            "title": "Получить список объектов из базы данных при подключении плагина",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/3dModelling/projectalienation/-/issues/2"
+          }
+        ]
+      },
+      {
+        "id": 365,
+        "name": "WellPadBuilder",
+        "issues": [
+          {
+            "title": "Разобраться с переносом/удлинением трубопровода",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/3dModelling/wellpadbuilder/-/issues/58"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "userName": "EgorovLF",
+    "fullName": "Егоров Леонид Федотович",
+    "avatarUrl": "https://www.gravatar.com/avatar/a1fae5e793dc0edd414ebe49f476a4c1?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 375,
+        "name": "Autotest_Stamp",
+        "issues": [
+          {
+            "title": "Реализовать сравнение разбитых чертежей с исходным чертежом",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/autotest_stamp/-/issues/6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "userName": "VarankinaLV",
+    "fullName": "Варанкина Любовь Владимировна",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/112/avatar.png",
+    "projects": [
+      {
+        "id": 330,
+        "name": "RS-Base",
+        "issues": [
+          {
+            "title": "Аналитика сервиса",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/rs-base/-/issues/2"
+          },
+          {
+            "title": "Презентация сервиса",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/rs-base/-/issues/1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "userName": "TyulkinEV",
+    "fullName": "Тюлькин Евгений Викторович",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/91/avatar.png",
+    "projects": [
+      {
+        "id": 283,
+        "name": "Performance discipline control",
+        "issues": [
+          {
+            "title": "Добавить \"горячую клавишу\" для особого контроля",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/performance-discipline-control/-/issues/67"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "userName": "gubinsv",
+    "fullName": "Губин Сергей Викторович",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/14/avatar.png",
+    "projects": [
+      {
+        "id": 278,
+        "name": "Department projects",
+        "issues": [
+          {
+            "title": "Подготовить и согласовать ВТР на ЕЭА ПСД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/department-projects/-/issues/106"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "userName": "KupriyanovNA",
+    "fullName": "Куприянов Никита Андреевич",
+    "avatarUrl": "https://www.gravatar.com/avatar/070c8066145e8b5bbb66ea23764ab4c3?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 274,
+        "name": "TemplateCKEditor",
+        "issues": [
+          {
+            "title": "Реализовать кнопку для создания метки \"Номер изменения\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/RossamakhinDI/templateckeditor/-/issues/6"
+          }
+        ]
+      },
+      {
+        "id": 207,
+        "name": "Specifications Checker",
+        "issues": [
+          {
+            "title": "Не нумеруются пункты п/п в ЛКП- отчёте по проверке ЗП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/specifications-checker/-/issues/719"
+          },
+          {
+            "title": "Ошибка с проверкой ИД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/specifications-checker/-/issues/652"
+          },
+          {
+            "title": "Доработать инструкцию по функционалу продолжения проверки УО на соответствие ММР после первого несоответствия",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/specifications-checker/-/issues/633"
+          },
+          {
+            "title": "Разработка ПО \"АвтоЗП\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/specifications-checker/-/issues/579"
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "name": "TemplateEngineApi",
+        "issues": [
+          {
+            "title": "[XML] Создать сервис для генерации структуры XML",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/templateengineapi/-/issues/198"
+          },
+          {
+            "title": "[XML] Обновить модели данных для XML",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/templateengineapi/-/issues/196"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "userName": "mrr",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/74/avatar.png",
+    "projects": [
+      {
+        "id": 269,
+        "name": "GPR",
+        "issues": [
+          {
+            "title": "Скрывать по кнопке часть полей в таблице ГПР",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/gpr/-/issues/23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "userName": "avtimakov",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "https://www.gravatar.com/avatar/12c4fcaf0acd345e57c394a219704f05?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 264,
+        "name": "dashboards",
+        "issues": [
+          {
+            "title": "Удовлетворенность. При выборе нового года ставить по умолчанию 1кв.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/50"
+          },
+          {
+            "title": "СУЗ. На круговой диаграмме изменить легенду. Для динамики замечаний изменить интервал.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/48"
+          },
+          {
+            "title": "Удовлетворенность заказчика. Деактивировать переключатель на виджете \"паутина\" если выбран минимальный период",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/46"
+          },
+          {
+            "title": "СУЗ. Блокировать кнопку \"Отправить\" до завершения загрузки",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/42"
+          },
+          {
+            "title": "СУЗ. При произвольном выборе даты блокировать кнопку \"Применить\" если не выбрана дата окончания",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/41"
+          },
+          {
+            "title": "СВЗ. Блокировать кнопки выбора периода до завершения загрузки",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/40"
+          },
+          {
+            "title": "СУЗ. Добавить название департамента к тултипам на графике.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/39"
+          },
+          {
+            "title": "СУЗ. Блокировать кнопку \"Применить\" при наличии пустых полей",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/38"
+          },
+          {
+            "title": "Добавить сообщение об отсутствии прав на каждую страницу, указать email для свзяи",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/37"
+          },
+          {
+            "title": "Баг-репорт первой страницы по СУЗ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/36"
+          },
+          {
+            "title": "СУЗ. Виджеты второй страницы",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/35"
+          },
+          {
+            "title": "Удовлетворенность заказчика - Добавить загрузку доступных периодов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/34"
+          },
+          {
+            "title": "Добавить фотографии и должность для рейтингов по СВЗ и НВЛ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/31"
+          },
+          {
+            "title": "СУЗ. На горизонтальных графиках с группировкой сделать одинаковый тултип.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/29"
+          },
+          {
+            "title": "СУЗ. Добавить вкладку Экспертиза генпроектировщика",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/28"
+          },
+          {
+            "title": "СУЗ. Добавить вкладку Объем проектов, выпущенных с применением чек-листов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/27"
+          },
+          {
+            "title": "Добавить уведомление об отсутствии прав пользователя на виджетах",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/25"
+          },
+          {
+            "title": "СУЗ. Реализовать загрузку критериев выбора оценки из БД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "userName": "AfanasevNA",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/78/avatar.png",
+    "projects": [
+      {
+        "id": 264,
+        "name": "dashboards",
+        "issues": [
+          {
+            "title": "СУЗ. Виджеты четвертой страницы",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/dashboards/-/issues/47"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "userName": "TeplyakovNM",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "https://www.gravatar.com/avatar/601d68ba5e7ae5ff263462c7aa2e38be?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 244,
+        "name": "TomskNipi.Stamp.Nanocad",
+        "issues": [
+          {
+            "title": "При считывании данных со штампа удаляются переносы строк",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/TomskNipi.Stamp.Nanocad/-/issues/25"
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "name": "TemplateEngineApi",
+        "issues": [
+          {
+            "title": "[XML] Реализовать карточку XML документа",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/templateengineapi/-/issues/205"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "userName": "PogrebnoyDV",
+    "fullName": "Погребной Дмитрий Владимирович",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/61/avatar.png",
+    "projects": [
+      {
+        "id": 201,
+        "name": "Expert System for Pipes Implementation",
+        "issues": [
+          {
+            "title": "Импорт в Report194 одной записи для Report7",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/66"
+          },
+          {
+            "title": "Добавить расчет УА по пользовательским фильтрам",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/64"
+          },
+          {
+            "title": "Доработка механизма импорта даты вывода в бездействие",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/62"
+          },
+          {
+            "title": "Аутентификация пользователя",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/8"
+          }
+        ]
+      },
+      {
+        "id": 173,
+        "name": "MobileTNIPI",
+        "issues": [
+          {
+            "title": "Badge для отображения уведомлений при публикации новостей",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/mobiletnipi/-/issues/32"
+          },
+          {
+            "title": "api для работы с презентационными файлами",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/mobiletnipi/-/issues/30"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SpecBook",
+        "issues": [
+          {
+            "title": "Форматирование исходного кода",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SpecBook/-/issues/257"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "userName": "IvanovaEM",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/63/avatar.png",
+    "projects": [
+      {
+        "id": 201,
+        "name": "Expert System for Pipes Implementation",
+        "issues": [
+          {
+            "title": "Создать недостающие справочники",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/56"
+          },
+          {
+            "title": "Добавить кнопку \"Запомнить меня\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/39"
+          },
+          {
+            "title": "Добавить пункты меню",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/expert-system-for-pipes-implementation/-/issues/30"
+          }
+        ]
+      },
+      {
+        "id": 183,
+        "name": "Catalog3D",
+        "issues": [
+          {
+            "title": "Отобразить экземпляры классов из MMD в дереве объектов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/catalog3d/-/issues/5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "userName": "BatyasovES",
+    "fullName": "Батясов Евгений Станиславович",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/46/avatar.png",
+    "projects": [
+      {
+        "id": 197,
+        "name": "HorizontalFlare",
+        "issues": [
+          {
+            "title": "Разработать отчёт с описанием хода вычисления полученного результата",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/HorizontalFlare/-/issues/63"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "userName": "RossamakhinDI",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "https://www.gravatar.com/avatar/cace9b324c9dd894538120406c58c7b8?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 190,
+        "name": "TemplateEngineApi",
+        "issues": [
+          {
+            "title": "Добавить API-контроллеры для всех классов БД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/templateengineapi/-/issues/1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "userName": "RybakAD",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/38/avatar.png",
+    "projects": [
+      {
+        "id": 179,
+        "name": "Estimates",
+        "issues": [
+          {
+            "title": "Добавление функции \"Формирование реестра смет\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/24"
+          },
+          {
+            "title": "Добавить функции формирования РВИ и Протокола",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/21"
+          },
+          {
+            "title": "Реализовать пакетное подписание комплектов СД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/19"
+          },
+          {
+            "title": "Добавить новые шаблоны смет ГРАНД (КЧН)",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/18"
+          },
+          {
+            "title": "Обрабатывать все РВИ в комплекте",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/17"
+          },
+          {
+            "title": "Сравнение наименований и ревизий, указанных в смете с РД/ПД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/8"
+          },
+          {
+            "title": "Материалы: Внесения МТР из спецификаций в ПК «ГРАНД-Смета»",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/7"
+          },
+          {
+            "title": "Паспорт комплекта: Добавление 2-х уровней цен для ЛС",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/estimates/-/issues/6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "userName": "NaybauerDY",
+    "fullName": "Найбауэр Дмитрий Юрьевич",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/40/avatar.png",
+    "projects": [
+      {
+        "id": 149,
+        "name": "MMD",
+        "issues": [
+          {
+            "title": "Панель виджетов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/mmd/-/issues/322"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Проверить обновление вкладки ДТПК (ОТП) без перехода во вкладку Применение ДТПК (факт)",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1425"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "userName": "GrebenkovMA",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/4/avatar.png",
+    "projects": [
+      {
+        "id": 116,
+        "name": "174",
+        "issues": [
+          {
+            "title": "Подготовить план-график разработки ИС ТЭЭ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/ORPPO/174/-/issues/4"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "YoungSpecRating",
+        "issues": [
+          {
+            "title": "Создание библиотеки для подтверждающих документов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/YoungSpecRating/-/issues/36"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "VL-Project",
+        "issues": [
+          {
+            "title": "Обновить календарный план",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/VL-Project/-/issues/5"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "SED",
+        "issues": [
+          {
+            "title": "Проверить работу джоба по прерыванию \"старых\" ЗРЧП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/94"
+          },
+          {
+            "title": "Эксперимент со сменой выдающего отдела в ЗРЧП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/32"
+          },
+          {
+            "title": "Настроить ежемесячную проверку и дефрагментацию индексов базы данных контента",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/29"
+          },
+          {
+            "title": "Обнорвление портала СИД в ТННЦ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/22"
+          },
+          {
+            "title": "Подготовить \"Акт оценки соответствия требованиям информационной безопасности\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/21"
+          },
+          {
+            "title": "Подготовить (найти) \"Акт о готовности ИС к вводу в пром. Эксплуатацию\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/19"
+          },
+          {
+            "title": "Подготовить \"Руководство по обеспечению непрерывности\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/16"
+          },
+          {
+            "title": "Убрать ссылки с главной страницы и в отчетах",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/8"
+          },
+          {
+            "title": "Не приходит письмо о создании согласования",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/7"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "AppStore",
+        "issues": [
+          {
+            "title": "Выполнить возможные для данного приложения требования выпуска релиза",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/AppStore/-/issues/11"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Передачи бинарников СТПК в СИБИНТЕК",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/167"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "userName": "KovalenkoEA",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "https://www.gravatar.com/avatar/ab00610aef273e240f339ba14264a491?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 106,
+        "name": "Unified-Electronic-Archive",
+        "issues": [
+          {
+            "title": "Создать ящик тех. поддержки по ЭА ПСД.",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/Unified-Electronic-Archive/-/issues/8"
+          },
+          {
+            "title": "Разобраться что это за свалка \"Y:\\TechInfo\\SAPR\\Книги, Документация, Руководства\\ЭА ПСД\". Все что нужно сохранить, все что нужно перенести/удалить/организовать на портале или через раздел УРТП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/Unified-Electronic-Archive/-/issues/5"
+          },
+          {
+            "title": "Уточнить и при необходимости откорректировать описание Механизм назначения ролей и Механизм задания ограничений доступа к данным в документации 2.3\tОБЩИЕ ПОНЯТИЯ РАЗГРАНИЧЕНИЯ ПРАВ ДОСТУПА",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/Unified-Electronic-Archive/-/issues/4"
+          },
+          {
+            "title": "Разъяснить по ролям и функциям и при необходимости внести исправления в Регламент предоставления доступа \"5.4\tМАТРИЦА ДОСТУПА К ОБЪЕКТАМ БЕЗОПАСНОСТИ\"",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/Unified-Electronic-Archive/-/issues/2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "userName": "LisovskayaVE",
+    "fullName": "Лисовская Валерия Евгеньевна",
+    "avatarUrl": "https://www.gravatar.com/avatar/d8706c6816c95d6c01817035ecf99e6f?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 106,
+        "name": "Unified-Electronic-Archive",
+        "issues": [
+          {
+            "title": "Устранить замечания, оформить согласно шаблону Компании",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/Unified-Electronic-Archive/-/issues/7"
+          },
+          {
+            "title": "Привести в соответствие и откорректировать в документации 5.3\tРОЛИ И ПРИВЯЗКА РОЛЕЙ К СУБЪЕКТАМ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SAPR/Unified-Electronic-Archive/-/issues/3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "userName": "SopelnichenkoTG",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/19/avatar.png",
+    "projects": [
+      {
+        "id": 58,
+        "name": "YoungSpecRating",
+        "issues": [
+          {
+            "title": "Подготовка данных для списка критериев",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/YoungSpecRating/-/issues/5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "userName": "TartynovViA",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/3/avatar.png",
+    "projects": [
+      {
+        "id": 42,
+        "name": "Examination",
+        "issues": [
+          {
+            "title": "Провести аналитику API CadLib",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Examination/-/issues/8"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Molnia",
+        "issues": [
+          {
+            "title": "Выпустить релиз Molnia v4.0.0",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Molnia/-/issues/66"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "OptimalSoil",
+        "issues": [
+          {
+            "title": "Настроить автоматическую сборку проекта",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/OptimalSoil/-/issues/9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "userName": "SavelevDV",
+    "fullName": "Савельев Дмитрий Васильевич",
+    "avatarUrl": "https://www.gravatar.com/avatar/9f615a3bbfa5f75dfa989c6d3a8a8e5f?s=80&d=identicon",
+    "projects": [
+      {
+        "id": 30,
+        "name": "MontageCalc",
+        "issues": [
+          {
+            "title": "Добавление лицензии",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/MontageCalc/-/issues/4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "userName": "ShushakovaVS",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/53/avatar.png",
+    "projects": [
+      {
+        "id": 24,
+        "name": "SED",
+        "issues": [
+          {
+            "title": "Анализ требований по доработке СИД",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SED/-/issues/95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "userName": "BekkerVY",
+    "fullName": "Беккер Вероника Юрьевна",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/15/avatar.png",
+    "projects": [
+      {
+        "id": 18,
+        "name": "Molnia",
+        "issues": [
+          {
+            "title": "Модификация добавления стержневых молниеотводов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Molnia/-/issues/21"
+          },
+          {
+            "title": "Добавление стержневых молниеотводов",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Molnia/-/issues/2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "userName": "CheremnovAG",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/5/avatar.png",
+    "projects": [
+      {
+        "id": 14,
+        "name": "Components",
+        "issues": [
+          {
+            "title": "Добавить тесты на спецификатор",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Components/-/issues/8"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Fakel",
+        "issues": [
+          {
+            "title": "Разобраться по какой причине перестали проходить тесты по ВФУ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Fakel/-/issues/44"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "userName": "MalkovAE",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/6/avatar.png",
+    "projects": [
+      {
+        "id": 9,
+        "name": "OptimalSoil",
+        "issues": [
+          {
+            "title": "Актуализировать РП в рамках выпуска релиза 1.3",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/OptimalSoil/-/issues/51"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SpecBook",
+        "issues": [
+          {
+            "title": "Выявить потребность у СО в создании спецификаций металла",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/SpecBook/-/issues/125"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "userName": "KarakulovNA",
+    "fullName": "Каракулов Никита Андреевич",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/104/avatar.png",
+    "projects": [
+      {
+        "id": 8,
+        "name": "Stamp",
+        "issues": [
+          {
+            "title": "Убрать ложные срабатывания на сайте virustotal",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/404"
+          },
+          {
+            "title": "Исправление в скриптах инсталяторов false positive срабатываний при проверке на вирустотал",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/Stamp/-/issues/347"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "userName": "kashirovaOS",
+    "fullName": "Каширова Ольга Сергеевна",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/82/avatar.png",
+    "projects": [
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Изменить отображения подсказки для заблокированной кнопки отправки на согласование ЗП",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/1405"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "userName": "ZhuravlevGV",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/25/avatar.png",
+    "projects": [
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Подготовить пакет документов для регистрации ПО",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/948"
+          },
+          {
+            "title": "Подготовка краткой инструкции для КНИПИ",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/839"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "userName": "ZhuchkovAO",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/24/avatar.png",
+    "projects": [
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Проверить роли. Создать ГИПа",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/129"
+          },
+          {
+            "title": "Пройти по одному БП на тестовом стенде",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/73"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "userName": "VasenevAA",
+    "fullName": "Пользователь не найден.",
+    "avatarUrl": "http://nipi-gl.tomsknipi.ru/uploads/-/system/user/avatar/18/avatar.png",
+    "projects": [
+      {
+        "id": 5,
+        "name": "STPK",
+        "issues": [
+          {
+            "title": "Ознакомление с функционалом проекта",
+            "webUrl": "http://nipi-gl.tomsknipi.ru/TDDM/STPK/-/issues/42"
+          }
+        ]
+      }
+    ]
+  }
+]

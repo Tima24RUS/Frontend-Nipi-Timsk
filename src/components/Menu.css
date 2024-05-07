@@ -1,0 +1,30 @@
+.Menu ul {
+    list-style-type: none;
+    padding: 0 20px;
+}
+
+.Menu li {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+.Menu li:last-child {
+    margin-bottom: 0;
+}
+
+.Menu a {
+    text-decoration: none;
+    background-color: #bebebe;
+    color: #000;
+    padding: 12px 16px;
+    border-radius: 10px;
+    display: block;
+    font-size: 1.2em;
+    line-height: 24px;
+    /* text-align: center; */
+}
+
+.Menu a:hover {
+    background-color: rgb(207, 207, 207);
+}

@@ -1,0 +1,31 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; 
+    overflow-y: hidden; 
+  }
+  
+  .App {
+    overflow-x: hidden; 
+    overflow-y: hidden;
+  }
+  
+  .Menu {
+    background-color: #ffffff;
+    padding: 20px;
+    flex: 0 0 auto;
+    border-right: 2px solid #000;
+  }
+  
+  .Content {
+    display: flex;
+    flex: 1 0 auto;
+    background-color: rgb(255, 255, 255);
+  }
+  
